@@ -58,7 +58,7 @@
       </build>
     </profile>
   </profiles>
-	<!--Added 20190410-->
+	<!--Added 20190410
 	<repositories>
 		<repository>
 			<id>spring-releases</id>
@@ -70,5 +70,5 @@
 			<id>spring-releases</id>
 			<url>https://repo.spring.io/libs-release</url>
 		</pluginRepository>
-	</pluginRepositories>
+	</pluginRepositories>-->
 </project>
